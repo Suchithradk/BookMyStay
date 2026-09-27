@@ -1,0 +1,25 @@
+# Eclipse
+.metadata/
+.settings/
+.classpath
+.project
+
+# Spring Boot
+target/
+
+# React
+node_modules/
+dist/
+
+# Environment / secrets
+.env
+.env.*
+application-local.properties
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
